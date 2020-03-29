@@ -13,7 +13,7 @@ A todo app built with [Laravel](https://laravel.com/docs/5.7) and [Vue.js](https
 ### Getting Started
 Make sure `PHP`, `Composer`, `Node` and `NPM` is installed in system
 
-1.  Clone this repository and cd into it
+1.  Clone this [repository](https://github.com/mkawsar/todo-code-challenge) and cd into it
 2.  Run `composer install` and `npm install` to download laravel and npm dependencies
 3.  Run `php artisan key:generate` to generate a key for the app
 5.  Set up your database in your `.env`
@@ -29,3 +29,6 @@ Make sure `PHP`, `Composer`, `Node` and `NPM` is installed in system
 * [Bootstrap](https://getbootstrap.com) - A beautiful Css framework
 * [Axios](https://vuejs.org/) - A Js library to handle ajax requests easily
 
+### Support
+
+If you have any questions or confusion please email me at **mkawsarahmed@outlook.com** or open an issue in the repository.
