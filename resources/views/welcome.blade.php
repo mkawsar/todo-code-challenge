@@ -6,8 +6,6 @@
     <meta name="csrf-token" content="{{ csrf_token() }}"/>
     <title>Todo app</title>
     <link rel="stylesheet" href="{{asset('bootstrap/css/bootstrap.min.css')}}">
-
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
     <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css">
 
     <!-- Styles -->
