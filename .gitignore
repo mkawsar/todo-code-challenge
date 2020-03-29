@@ -16,5 +16,5 @@ composer.lock
 package-lock.json
 yarn.lock
 
-public/css/
-public/js/
+public/css/app.css
+public/js/app.js
