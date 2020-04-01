@@ -24,17 +24,6 @@
         data() {
             return {};
         },
-        mounted() {
-
-            /*window.Echo.channel("newTask").listen(".task-created", e => {
-                this.$store.commit("ADD_TODO", e.task);
-                this.newTodo.title = "";
-            });
-
-            window.Echo.channel("taskRemoved").listen(".task-removed", e => {
-                this.$store.commit("DELETE_TODO", this.toRemove);
-            });*/
-        },
         computed: {
             ...mapGetters(["newTodo", "toRemove"])
         }

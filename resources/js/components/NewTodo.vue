@@ -1,10 +1,8 @@
 <template>
-
     <input type="text" v-model="newTodo.title"
            id="todo-field"
            @keyup.enter="addTodo" autofocus="autofocus"
            placeholder="What need to be done?" class="new-todo">
-
 </template>
 <script>
     import {mapGetters} from "vuex";
